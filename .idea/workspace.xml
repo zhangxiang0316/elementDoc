@@ -25,7 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ecb140-3202-446c-bff1-88992d1c37d5" name="Default Changelist" comment="readme" />
+    <list default="true" id="d7ecb140-3202-446c-bff1-88992d1c37d5" name="Default Changelist" comment="readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/analytics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611221058322</updated>
-      <workItem from="1611221059381" duration="298000" />
+      <workItem from="1611221059381" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1611221240062</created>
@@ -103,7 +107,28 @@
       <option name="project" value="LOCAL" />
       <updated>1611221240062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <created>1611221389215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611221389215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <created>1611221489745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611221489745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1611221518231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611221518232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +170,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611221143434" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611221245812">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611221521493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611221245812" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611221521493" />
   </component>
 </project>
