@@ -1,2 +1,2 @@
 
-预览[预览地址](https://zhangxiang0316.github.io/elementDoc/index.html).
+预览[预览地址](https://zhangxiang0316.github.io/elementDoc).
